@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fortress-client/fortress-client.iml" filepath="$PROJECT_DIR$/fortress-client/fortress-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortress-uma.iml" filepath="$PROJECT_DIR$/fortress-uma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortress_server/fortress_server.iml" filepath="$PROJECT_DIR$/fortress_server/fortress_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortress_server/target/maven-archiver/maven-archiver.iml" filepath="$PROJECT_DIR$/fortress_server/target/maven-archiver/maven-archiver.iml" />
+    </modules>
+  </component>
+</project>
